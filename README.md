@@ -15,3 +15,5 @@ Co-authored with Octocat to earn Pair Extraordinaire badge.
 - Step 6: Co-authored commit with @octocat
 
 - Step 7: Co-authored commit with @octocat
+
+- Step 8: Co-authored commit with @octocat
