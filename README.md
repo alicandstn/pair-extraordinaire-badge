@@ -1,23 +1,43 @@
-# pair-extraordinaire-badge
-Repository to unlock Pair Extraordinaire GitHub achievement
+﻿# 🏆 GitHub Achievements Hub & Guide
 
+A repository designed to demonstrate, automate, and track GitHub Achievements!
 
-Co-authored with Octocat to earn Pair Extraordinaire badge.
+[![GitHub Stars](https://img.shields.io/github/stars/vasgodutyal/pair-extraordinaire-badge?style=social)](https://github.com/vasgodutyal/pair-extraordinaire-badge/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vasgodutyal/pair-extraordinaire-badge?style=social)](https://github.com/vasgodutyal/pair-extraordinaire-badge/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/vasgodutyal/pair-extraordinaire-badge)](https://github.com/vasgodutyal/pair-extraordinaire-badge/issues)
 
-- Step 2: Co-authored commit with @octocat
+---
 
-- Step 3: Co-authored commit with @octocat
+## 🌟 Starstruck Badge (Goal: 16 Stars ⭐)
 
-- Step 4: Co-authored commit with @octocat
+Help each other unlock the **Starstruck** achievement! 
+If you find this repository helpful or want to support:
+1. Click the **⭐ Star** button at the top right!
+2. Feel free to open a PR or issue to collaborate and unlock **Pair Extraordinaire** or **Pull Shark**.
 
-- Step 5: Co-authored commit with @octocat
+---
 
-- Step 6: Co-authored commit with @octocat
+## 🎖️ GitHub Achievements Status
 
-- Step 7: Co-authored commit with @octocat
+| Badge | Achievement | Description | Status |
+| :---: | :--- | :--- | :---: |
+| 🦈 | **Pull Shark** | Merged Pull Requests | 🔓 Unlocked |
+| ⚡ | **Quickdraw** | Closed Issue/PR within 5 minutes | 🔓 Unlocked |
+| 🚀 | **YOLO** | Merged PR without code review | 🔓 Unlocked |
+| 👯 | **Pair Extraordinaire** | Co-authored commits on merged PR | 🔓 Unlocked (Bronze x2) |
+| 🌟 | **Starstruck** | Repository with 16+ stars | ⏳ In Progress |
+| 🧠 | **Galaxy Brain** | Answered GitHub Discussions | ⏳ In Progress |
 
-- Step 8: Co-authored commit with @octocat
+---
 
-- Step 9: Co-authored commit with @octocat
+## 🤝 How to contribute for Pair Extraordinaire
+1. Fork this repository.
+2. Create a branch and add a commit with trailer:
+   ``
+   Co-authored-by: octocat <octocat@users.noreply.github.com>
+   ``
+3. Open a Pull Request! We will merge it to help you unlock the badge!
 
-- Step 10: Co-authored commit with @octocat
+---
+
+⭐ **Leave a Star if this helped you!**
